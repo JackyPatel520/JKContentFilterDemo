@@ -1,0 +1,6 @@
+framework module Pods_AppContentFilter {
+  umbrella header "Pods-AppContentFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}
